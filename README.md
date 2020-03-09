@@ -1,3 +1,3 @@
-# mobile
-Repository for my hybrid mobile projects<br>
+# CORDOVA
+Feel free to clone or download for academic references.<br>
 MODELLED FOR MY UNIVERSITY ASSIGNMENT.
