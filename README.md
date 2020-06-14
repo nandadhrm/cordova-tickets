@@ -1,3 +1,3 @@
 # CORDOVA
-Feel free to clone or download for academic references.<br>
+Simple movies tickets booking app built using html, css, javascript, PHP, and Apache Cordova.
 MODELLED FOR MY UNIVERSITY ASSIGNMENT.
