@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "EzTicket",
+  "short_name": "EzTicket",
+  "version": "org.apache.cordova.EzTicket",
+  "description": "A movie ticket reservation app created by very determined college students.",
+  "author": "Ananda Dharma",
+  "icons": [
+    {
+      "src": "www/img/logo.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    }
+  ],
+  "start_url": "index.html"
+}
